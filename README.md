@@ -6,7 +6,7 @@ Middleware to proxy REST calls to different endpoints depending on conditions.  
 
 Version 1.0 - Not quite complete or fully tested yet.
 
-***
+*** 
 
 ## Disclaimer
 
